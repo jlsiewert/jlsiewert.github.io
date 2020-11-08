@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2020/11/08/another-sunday-another.html",
+				
+				"content_html": "<p>Another Sunday, another bread.</p>\n\n<p>Taste is great, texture is good, optics still have some potential. But we are getting there.</p>\n",
+				"content_text": "Another Sunday, another bread. \n\nTaste is great, texture is good, optics still have some potential. But we are getting there. \n",
+				"date_published": "2020-11-08T22:16:23+01:00",
+				"url": "https://jl-siewert.de/2020/11/08/another-sunday-another.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/08/i-am-trying.html",
+				
+				"content_html": "<p>I am trying to bind myself to some more habits, building a more robust schedule. But some patterns are hard to overcome.</p>\n",
+				"content_text": "I am trying to bind myself to some more habits, building a more robust schedule. But some patterns are hard to overcome. \n",
+				"date_published": "2020-11-08T17:52:16+01:00",
+				"url": "https://jl-siewert.de/2020/11/08/i-am-trying.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/07/i-dont-want.html",
+				
+				"content_html": "<p>I don&rsquo;t want to inflate hopes to much, but today was a good day for this world.</p>\n",
+				"content_text": "I don't want to inflate hopes to much, but today was a good day for this world. \n",
+				"date_published": "2020-11-07T23:32:37+01:00",
+				"url": "https://jl-siewert.de/2020/11/07/i-dont-want.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/06/biden-takes-the.html",
+				
+				"content_html": "<p>Biden takes the lead in PA. It is still puzzling why I can&rsquo;t get my head away from election coverage. But hey, I take everything that keeps me away from blowing too much money at Apple preorders.</p>\n",
+				"content_text": "Biden takes the lead in PA. It is still puzzling why I can't get my head away from election coverage. But hey, I take everything that keeps me away from blowing too much money at Apple preorders.\n",
+				"date_published": "2020-11-06T14:55:14+01:00",
+				"url": "https://jl-siewert.de/2020/11/06/biden-takes-the.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/05/looks-like-apple.html",
+				
+				"content_html": "<p>Looks like Apple <em>finally</em> got the Apple TV and HomePod integration right. Playing video always outputs to the HomePod but music doesn&rsquo;t start the TV.</p>\n",
+				"content_text": "Looks like Apple _finally_ got the Apple TV and HomePod integration right. Playing video always outputs to the HomePod but music doesn't start the TV. \n",
+				"date_published": "2020-11-05T21:32:22+01:00",
+				"url": "https://jl-siewert.de/2020/11/05/looks-like-apple.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/05/i-am-not.html",
+				
+				"content_html": "<p>I am not that tall, but I still automatically stoop every time I enter a basement. How can taller people manage that?</p>\n",
+				"content_text": "I am not that tall, but I still automatically stoop every time I enter a basement. How can taller people manage that?\n",
+				"date_published": "2020-11-05T21:23:58+01:00",
+				"url": "https://jl-siewert.de/2020/11/05/i-am-not.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/04/supermarkets-near-us.html",
+				
+				"content_html": "<p>Supermarkets near us declared the second Covid wave to be over. There was toilet paper, pasta and even flour in stock!</p>\n",
+				"content_text": "Supermarkets near us declared the second Covid wave to be over. There was toilet paper, pasta and even flour in stock!\n",
+				"date_published": "2020-11-04T21:41:42+01:00",
+				"url": "https://jl-siewert.de/2020/11/04/supermarkets-near-us.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/04/wish-i-had.html",
+				
+				"content_html": "<p>Wish I had this guys optimism.</p>\n\n<blockquote>\n<p>Keep the faith, guys. We’re gonna win this.</p>\n</blockquote>\n\n<p>– Joe Biden (@JoeBiden) <a href=\"https://twitter.com/JoeBiden/status/1323865811031785472\">November 4, 2020</a></p>\n",
+				"content_text": "Wish I had this guys optimism. \n\n> Keep the faith, guys. We’re gonna win this.\n\n– Joe Biden (@JoeBiden) [November 4, 2020](https://twitter.com/JoeBiden/status/1323865811031785472)\n",
+				"date_published": "2020-11-04T08:04:46+01:00",
+				"url": "https://jl-siewert.de/2020/11/04/wish-i-had.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/04/do-i-watch.html",
+				
+				"content_html": "<p>Do I watch election coverage or do I preserve my mental health?</p>\n",
+				"content_text": "Do I watch election coverage or do I preserve my mental health?\n",
+				"date_published": "2020-11-04T07:05:52+01:00",
+				"url": "https://jl-siewert.de/2020/11/04/do-i-watch.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/03/i-thought-about.html",
+				
+				"content_html": "<p>I thought about how to put it, but that sums it up nicely.</p>\n\n<blockquote>\n<p>Good luck, America. I genuinely believe you&rsquo;ve got it this time. I&rsquo;ll be rooting for a return to sanity, decency, and hope from afar.</p>\n</blockquote>\n\n<p>– <em>Federico Viticci</em> <a href=\"https://twitter.com/viticci/status/1323675205068271616\">November 3, 2020</a></p>\n",
+				"content_text": "I thought about how to put it, but that sums it up nicely. \n\n> Good luck, America. I genuinely believe you've got it this time. I'll be rooting for a return to sanity, decency, and hope from afar.   \n\n– _Federico Viticci_ [November 3, 2020](https://twitter.com/viticci/status/1323675205068271616)\n",
+				"date_published": "2020-11-03T21:04:48+01:00",
+				"url": "https://jl-siewert.de/2020/11/03/i-thought-about.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/03/always-do-right.html",
+				
+				"content_html": "<blockquote>\n<p>Always do right. This will gratify some people, and astonish the rest.</p>\n</blockquote>\n\n<p>– <em>Mark Twain</em></p>\n",
+				"content_text": "> Always do right. This will gratify some people, and astonish the rest.\n\n– _Mark Twain_\n",
+				"date_published": "2020-11-03T20:49:04+01:00",
+				"url": "https://jl-siewert.de/2020/11/03/always-do-right.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/02/i-am-trying.html",
+				
+				"content_html": "<p>I am trying to get into the habit to mediate. It already helps me concentrate.</p>\n",
+				"content_text": "I am trying to get into the habit to mediate. It already helps me concentrate. \n",
+				"date_published": "2020-11-02T17:02:20+01:00",
+				"url": "https://jl-siewert.de/2020/11/02/i-am-trying.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2020/11/01/one-such-a.html",
 				
 				"content_html": "<p>One such a rainy, dreary Sunday one needs to find some means to brighten the day up.<br />\nSo I made some more bread!</p>\n\n<p><img src=\"uploads/2020/6579b270ec.jpg\" width=\"1000\" height=\"750\" alt=\"Homemade Bread\"\\></p>\n",
