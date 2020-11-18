@@ -7,6 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2020/11/18/sometimes-even-trillion.html",
+				
+				"content_html": "<p>Sometimes, even 2-trillion company does something right. And, whatever their motives, it&rsquo;s okay to acknowledge that.<br />\n<a href=\"https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/\">New App Store commissions</a> are great for those who benefit from it, but it won&rsquo;t - and shouldn&rsquo;t - be enough to face off the antitrust cases.</p>\n",
+				"content_text": "Sometimes, even 2-trillion company does something right. And, whatever their motives, it's okay to acknowledge that.  \n[New App Store commissions](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/) are great for those who benefit from it, but it won't - and shouldn't - be enough to face off the antitrust cases. \n",
+				"date_published": "2020-11-18T19:51:07+01:00",
+				"url": "https://jl-siewert.de/2020/11/18/sometimes-even-trillion.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/14/wandering-down-along.html",
+				
+				"content_html": "<p>Wandering down along closed restaurants on bars on a Saturday night still feels spooky. Emptiness where there should be joy and life.</p>\n\n<p>Let&rsquo;s at least hope that the partial lockdown helps!</p>\n",
+				"content_text": "Wandering down along closed restaurants on bars on a Saturday night still feels spooky. Emptiness where there should be joy and life. \n\nLet's at least hope that the partial lockdown helps!\n",
+				"date_published": "2020-11-14T18:01:42+01:00",
+				"url": "https://jl-siewert.de/2020/11/14/wandering-down-along.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/14/pizza-time.html",
+				
+				"content_html": "<p>Pizza time!</p>\n\n<p><img src=\"uploads/2020/db5a5cf5cb.jpg\" width=\"1000\" height=\"1333\" alt=\"Our kitchen is prepared for baking pizza\"\\></p>\n",
+				"content_text": "Pizza time!\n\n<img src=\"uploads/2020/db5a5cf5cb.jpg\" width=\"1000\" height=\"1333\" alt=\"Our kitchen is prepared for baking pizza\"\\>\n",
+				"date_published": "2020-11-14T17:55:15+01:00",
+				"url": "https://jl-siewert.de/2020/11/14/pizza-time.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/13/backups-are-in.html",
+				
+				"content_html": "<p>Backups are in place, I guess it&rsquo;s Big Sur time!</p>\n",
+				"content_text": "Backups are in place, I guess it's Big Sur time!\n",
+				"date_published": "2020-11-13T19:37:16+01:00",
+				"url": "https://jl-siewert.de/2020/11/13/backups-are-in.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/12/ive-been-wearing.html",
+				
+				"content_html": "<p>I&rsquo;ve been wearing my Apple Watch to sleep for a couple of weeks now but honestly I don&rsquo;t know why. The alarm is nice and subtle, but that&rsquo;s the opposite of what I usually need in the morning. And the sleep data feels kinda… pointless.</p>\n",
+				"content_text": "I've been wearing my Apple Watch to sleep for a couple of weeks now but honestly I don't know why. The alarm is nice and subtle, but that's the opposite of what I usually need in the morning. And the sleep data feels kinda… pointless. \n",
+				"date_published": "2020-11-12T19:59:24+01:00",
+				"url": "https://jl-siewert.de/2020/11/12/ive-been-wearing.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/11/id-say-i.html",
+				
+				"content_html": "<p>I&rsquo;d say I just opened my first public GitHub issue. That was a long time coming.</p>\n",
+				"content_text": "I'd say I just opened my first public GitHub issue. That was a long time coming. \n",
+				"date_published": "2020-11-11T19:25:15+01:00",
+				"url": "https://jl-siewert.de/2020/11/11/id-say-i.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/10/the-m-macs.html",
+				
+				"content_html": "<p>The M1 Macs look like nice improvements. I am curious for some real-life experiences in the coming weeks.</p>\n",
+				"content_text": "The M1 Macs look like nice improvements. I am curious for some real-life experiences in the coming weeks. \n",
+				"date_published": "2020-11-10T21:41:32+01:00",
+				"url": "https://jl-siewert.de/2020/11/10/the-m-macs.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/10/following-the-great.html",
+				
+				"content_html": "<p>Following the great news about Covid vaccines the first suggestions about who should receive it first were published: Doctors, nurses and the elderly.</p>\n\n<p>Makes sense, but let&rsquo;s see what will happen when the vaccine actually becomes available.</p>\n",
+				"content_text": "Following the great news about Covid vaccines the first suggestions about who should receive it first were published: Doctors, nurses and the elderly. \n\nMakes sense, but let's see what will happen when the vaccine actually becomes available. \n",
+				"date_published": "2020-11-10T21:36:47+01:00",
+				"url": "https://jl-siewert.de/2020/11/10/following-the-great.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/09/time-to-dig.html",
+				
+				"content_html": "<p>Time to dig into The Mandalorian Season 2 and our all favorite force baby.</p>\n",
+				"content_text": "Time to dig into The Mandalorian Season 2 and our all favorite force baby. \n",
+				"date_published": "2020-11-09T19:34:29+01:00",
+				"url": "https://jl-siewert.de/2020/11/09/time-to-dig.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/09/politicians-use-every.html",
+				
+				"content_html": "<p>Politicians use every horrible attacks to push through with their surveillance fetishes, like the most recent <a href=\"https://files.orf.at/vietnam2/files/fm4/202045/783284_fh_st12143-re01en20_783284.pdf\">attempt to end end-to-end encryption in Europe</a>. The attacker was of course well known to the police. But hey, never pass on such an opportunity.</p>\n",
+				"content_text": "Politicians use every horrible attacks to push through with their surveillance fetishes, like the most recent [attempt to end end-to-end encryption in Europe](https://files.orf.at/vietnam2/files/fm4/202045/783284_fh_st12143-re01en20_783284.pdf). The attacker was of course well known to the police. But hey, never pass on such an opportunity. \n",
+				"date_published": "2020-11-09T17:17:09+01:00",
+				"url": "https://jl-siewert.de/2020/11/09/politicians-use-every.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/09/there-are-no.html",
+				
+				"content_html": "<p>There are no news like an <a href=\"https://fm4.orf.at/stories/3008930/\">EU encryption ban</a> to get your blood boiling on a Monday morning.</p>\n",
+				"content_text": "There are no news like an [EU encryption ban](https://fm4.orf.at/stories/3008930/) to get your blood boiling on a Monday morning. \n",
+				"date_published": "2020-11-09T07:34:45+01:00",
+				"url": "https://jl-siewert.de/2020/11/09/there-are-no.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2020/11/08/another-sunday-another.html",
 				
 				"content_html": "<p>Another Sunday, another bread.</p>\n\n<p>Taste is great, texture is good, optics still have some potential. But we are getting there.</p>\n",
