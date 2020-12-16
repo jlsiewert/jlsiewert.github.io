@@ -7,12 +7,77 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2020/12/16/finished-my-last.html",
+				
+				"content_html": "<p>Finished my last day of work for the day. Now looking forward to relax during lockdown 2.0.</p>\n",
+				"content_text": "Finished my last day of work for the day. Now looking forward to relax during lockdown 2.0. \n",
+				"date_published": "2020-12-16T19:32:33+01:00",
+				"url": "https://jl-siewert.de/2020/12/16/finished-my-last.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/23/184007.html",
+				
+				"content_html": "<p>It&rsquo;s the hope that kills you.</p>\n",
+				"content_text": "It's the hope that kills you. \n",
+				"date_published": "2020-11-23T18:40:07+01:00",
+				"url": "https://jl-siewert.de/2020/11/23/184007.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/23/its-the-hope.html",
+				
+				"content_html": "<p>It&rsquo;s the hope that kills you.</p>\n",
+				"content_text": "It's the hope that kills you. \n",
+				"date_published": "2020-11-23T18:39:17+01:00",
+				"url": "https://jl-siewert.de/2020/11/23/its-the-hope.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/18/oh-no-i.html",
+				
+				"content_html": "<p>Oh no, I broke my micro.blog!</p>\n",
+				"content_text": "Oh no, I broke my micro.blog!\n",
+				"date_published": "2020-11-18T19:58:38+01:00",
+				"url": "https://jl-siewert.de/2020/11/18/oh-no-i.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2020/11/18/sometimes-even-trillion.html",
 				
 				"content_html": "<p>Sometimes, even 2-trillion company does something right. And, whatever their motives, it&rsquo;s okay to acknowledge that.<br />\n<a href=\"https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/\">New App Store commissions</a> are great for those who benefit from it, but it won&rsquo;t - and shouldn&rsquo;t - be enough to face off the antitrust cases.</p>\n",
 				"content_text": "Sometimes, even 2-trillion company does something right. And, whatever their motives, it's okay to acknowledge that.  \n[New App Store commissions](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/) are great for those who benefit from it, but it won't - and shouldn't - be enough to face off the antitrust cases. \n",
 				"date_published": "2020-11-18T19:51:07+01:00",
 				"url": "https://jl-siewert.de/2020/11/18/sometimes-even-trillion.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/17/i-enjoy-going.html",
+				
+				"content_html": "<p>I enjoy going by train. In fact we don&rsquo;t even own a car anymore. But thinking about all the creative ways people wear their masks alone makes me stay at home as much as possible.</p>\n",
+				"content_text": "I enjoy going by train. In fact we don't even own a car anymore. But thinking about all the creative ways people wear their masks alone makes me stay at home as much as possible. \n",
+				"date_published": "2020-11-17T18:45:47+01:00",
+				"url": "https://jl-siewert.de/2020/11/17/i-enjoy-going.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/16/in-memory-of.html",
+				
+				"content_html": "<p>In memory of better times.</p>\n\n<p><img src=\"uploads/2020/3eae682dd9.jpg\" width=\"1000\" height=\"1000\" alt=\"A flower in Grugapark\" /></p>\n",
+				"content_text": "In memory of better times. \n\n<img src=\"uploads/2020/3eae682dd9.jpg\" width=\"1000\" height=\"1000\" alt=\"A flower in Grugapark\" />\n",
+				"date_published": "2020-11-16T22:29:46+01:00",
+				"url": "https://jl-siewert.de/2020/11/16/in-memory-of.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/15/i-am-really.html",
+				
+				"content_html": "<p>I am really enjoying <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Microblogvember</a> so far.</p>\n\n<p>Posting each day is a nice challenge.</p>\n",
+				"content_text": "I am really enjoying [Microblogvember](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html) so far. \n\nPosting each day is a nice challenge. \n",
+				"date_published": "2020-11-15T21:53:33+01:00",
+				"url": "https://jl-siewert.de/2020/11/15/i-am-really.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2020/11/15/the-good-thing.html",
+				
+				"content_html": "<p>The good thing about rainy Sundays is that you don&rsquo;t feel bad for spending the day on the couch.</p>\n",
+				"content_text": "The good thing about rainy Sundays is that you don't feel bad for spending the day on the couch. \n",
+				"date_published": "2020-11-15T19:29:20+01:00",
+				"url": "https://jl-siewert.de/2020/11/15/the-good-thing.html"
 			},
 			{
 				"id": "http://jlsiewert.micro.blog/2020/11/14/wandering-down-along.html",
