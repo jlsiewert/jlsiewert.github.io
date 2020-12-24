@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2020/12/24/what-a-crazy.html",
+				
+				"content_html": "<p>What a crazy year!</p>\n\n<p>We wish anyone Merry Christmas 🎄 🥂<br />\nStay safe and healthy.</p>\n\n<p><img src=\"uploads/2020/b8e8b782a9.jpg\" width=\"1000\" height=\"1000\" alt=\"A toilette paper christmas tree decoration\"\\></p>\n",
+				"content_text": "What a crazy year!\n\nWe wish anyone Merry Christmas 🎄 🥂  \nStay safe and healthy. \n\n<img src=\"uploads/2020/b8e8b782a9.jpg\" width=\"1000\" height=\"1000\" alt=\"A toilette paper christmas tree decoration\"\\>\n",
+				"date_published": "2020-12-24T15:57:08+01:00",
+				"url": "https://jl-siewert.de/2020/12/24/what-a-crazy.html",
+				"tags": ["Photo"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2020/12/16/finished-my-last.html",
 				
 				"content_html": "<p>Finished my last day of work for the day. Now looking forward to relax during lockdown 2.0.</p>\n",
