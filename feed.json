@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2021/01/19/i-was-excited.html",
+				
+				"content_html": "<p>I was excited for a shipping update on our new M1 MacBook Air, but there were just payment processing troubles 😩</p>\n",
+				"content_text": "I was excited for a shipping update on our new M1 MacBook Air, but there were just payment processing troubles 😩\n",
+				"date_published": "2021-01-19T15:56:27+01:00",
+				"url": "https://jl-siewert.de/2021/01/19/i-was-excited.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2021/01/06/to-contradict-current.html",
 				
 				"content_html": "<p>To contradict current news, there just was the first very light snowfall of the year. Delightful!</p>\n",
