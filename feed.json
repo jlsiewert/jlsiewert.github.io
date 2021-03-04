@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2021/03/04/exploiting-string-interpolation.html",
+				
+				"content_html": "<p><a href=\"https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/\">&ldquo;Exploiting String Interpolation For Fun And For Profit | Dave DeLong&rdquo;</a></p>\n\n<p>A deep-dive into Swift String Interpolation.</p>\n",
+				"content_text": "[\"Exploiting String Interpolation For Fun And For Profit | Dave DeLong\"](https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/)\n\nA deep-dive into Swift String Interpolation. \n",
+				"date_published": "2021-03-04T19:45:23+01:00",
+				"url": "https://jl-siewert.de/2021/03/04/exploiting-string-interpolation.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2021/01/19/i-was-excited.html",
 				
 				"content_html": "<p>I was excited for a shipping update on our new M1 MacBook Air, but there were just payment processing troubles 😩</p>\n",
