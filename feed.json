@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2021/03/24/hours-for-lets.html",
+				
+				"content_html": "<p>14 + 2 hours for <em>Let&rsquo;s continue trying what obviously isn&rsquo;t working</em>.<br />\nAnd I thought my Zoom meetings were unproductive.</p>\n",
+				"content_text": "14 + 2 hours for *Let's continue trying what obviously isn't working*.  \nAnd I thought my Zoom meetings were unproductive. \n",
+				"date_published": "2021-03-24T12:43:30+01:00",
+				"url": "https://jl-siewert.de/2021/03/24/hours-for-lets.html"
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2021/03/04/exploiting-string-interpolation.html",
 				
 				"content_html": "<p><a href=\"https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/\">&ldquo;Exploiting String Interpolation For Fun And For Profit | Dave DeLong&rdquo;</a></p>\n\n<p>A deep-dive into Swift String Interpolation.</p>\n",
