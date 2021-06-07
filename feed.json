@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/i-am-looking.html",
+				
+				"content_html": "<p>I am looking forward to my mom calling and asking why I haven&rsquo;t slept last night.</p>\n",
+				"content_text": "I am looking forward to my mom calling and asking why I haven't slept last night. \n",
+				"date_published": "2021-06-07T20:07:25+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/i-am-looking.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/xcode-on-ipad.html",
+				
+				"content_html": "<p>Xcode on iPad 😍</p>\n\n<p>Well not really but close enough.</p>\n",
+				"content_text": "Xcode on iPad 😍\n\nWell not really but close enough. \n",
+				"date_published": "2021-06-07T19:48:22+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/xcode-on-ipad.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/if-quick-note.html",
+				
+				"content_html": "<p>If Quick Note gets an API I might have to switch my notes apps.</p>\n",
+				"content_text": "If Quick Note gets an API I might have to switch my notes apps. \n",
+				"date_published": "2021-06-07T19:47:58+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/if-quick-note.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/looks-like-the.html",
+				
+				"content_html": "<p>Looks like the iPad got iOS 14 as well.</p>\n",
+				"content_text": "Looks like the iPad got iOS 14 as well. \n",
+				"date_published": "2021-06-07T19:41:34+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/looks-like-the.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/i-have-a.html",
+				
+				"content_html": "<p>I have a feeling that this is going to be a big one.</p>\n",
+				"content_text": "I have a feeling that this is going to be a big one. \n",
+				"date_published": "2021-06-07T18:49:58+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/i-have-a.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/07/to-get-ready.html",
+				
+				"content_html": "<p>To get ready for the keynote tonight I browsed through some pictures from my only in-person WWDC in 2018.</p>\n\n<p><img src=\"uploads/2021/93ea54c252.jpg\" width=\"1000\" height=\"667\" alt=\"WWDC 2018\"\\></p>\n\n<p><img src=\"uploads/2021/ef0d1ad67f.jpg\" width=\"1000\" height=\"750\" alt=\"My Badge for WWDC 2018\"\\></p>\n\n<p>The scholarship event was at Apple Park which was just amazing.</p>\n\n<p><img src=\"uploads/2021/8acda3f468.jpg\" width=\"1000\" height=\"750\" alt=\"Steve Jobs Theatre\"\\></p>\n",
+				"content_text": "To get ready for the keynote tonight I browsed through some pictures from my only in-person WWDC in 2018.\n\n<img src=\"uploads/2021/93ea54c252.jpg\" width=\"1000\" height=\"667\" alt=\"WWDC 2018\"\\>\n\n<img src=\"uploads/2021/ef0d1ad67f.jpg\" width=\"1000\" height=\"750\" alt=\"My Badge for WWDC 2018\"\\>\n\nThe scholarship event was at Apple Park which was just amazing. \n\n<img src=\"uploads/2021/8acda3f468.jpg\" width=\"1000\" height=\"750\" alt=\"Steve Jobs Theatre\"\\>\n",
+				"date_published": "2021-06-07T13:28:00+02:00",
+				"url": "https://jl-siewert.de/2021/06/07/to-get-ready.html",
+				"tags": ["Photo","Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/04/that-was-quick.html",
+				
+				"content_html": "<p>That was quick!</p>\n\n<p><img src=\"https://jl-siewert.de/uploads/2021/1578e49832.jpg\" width=\"1000\" height=\"1334\" alt=\"WWDC 2021 Student Challenge Gear\"\\></p>\n",
+				"content_text": "That was quick!\n\n<img src=\"https://jl-siewert.de/uploads/2021/1578e49832.jpg\" width=\"1000\" height=\"1334\" alt=\"WWDC 2021 Student Challenge Gear\"\\>\n",
+				"date_published": "2021-06-04T20:07:16+02:00",
+				"url": "https://jl-siewert.de/2021/06/04/that-was-quick.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/01/swift-student-challenge.html",
+				
+				"content_html": "<p>Swift Student Challenge Results are in!</p>\n\n<p>Congrats to all the winners and everyone who participated. This was a fun one.</p>\n\n<p><img src=\"https://jl-siewert.de/uploads/2021/c9dbe90fb7.png\" width=\"600\" height=\"192\" alt=\"I've won a Swift Student Challenge award.\" /></p>\n",
+				"content_text": "Swift Student Challenge Results are in!\r\n\r\nCongrats to all the winners and everyone who participated. This was a fun one.\r\n\r\n\n\n<img src=\"https://jl-siewert.de/uploads/2021/c9dbe90fb7.png\" width=\"600\" height=\"192\" alt=\"I've won a Swift Student Challenge award.\" />\n",
+				"date_published": "2021-06-01T14:08:39+02:00",
+				"url": "https://jl-siewert.de/2021/06/01/swift-student-challenge.html",
+				"tags": ["Photo","Twitter"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2021/05/31/the-full-story.html",
 				
 				"content_html": "<p><a href=\"https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/\">&ldquo;The Full Story of the Stunning RSA Hack Can Finally Be Told | WIRED&rdquo;</a></p>\n",
@@ -17,8 +89,8 @@
 			{
 				"id": "http://jlsiewert.micro.blog/2021/05/21/look-at-this.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/548db542df.jpg\" width=\"1000\" height=\"1000\" alt=\"A Canyon gravel bike against a tee\"\\></p>\n\n<p>Look at this beauty.</p>\n",
-				"content_text": "<img src=\"uploads/2021/548db542df.jpg\" width=\"1000\" height=\"1000\" alt=\"A Canyon gravel bike against a tee\"\\>\n\nLook at this beauty. \n",
+				"content_html": "<p><img src=\"https://jl-siewert.de/uploads/2021/548db542df.jpg\" width=\"1000\" height=\"1000\" alt=\"A Canyon gravel bike against a tee\"\\></p>\n\n<p>Look at this beauty.</p>\n",
+				"content_text": "<img src=\"https://jl-siewert.de/uploads/2021/548db542df.jpg\" width=\"1000\" height=\"1000\" alt=\"A Canyon gravel bike against a tee\"\\>\n\nLook at this beauty. \n",
 				"date_published": "2021-05-21T21:10:07+02:00",
 				"url": "https://jl-siewert.de/2021/05/21/look-at-this.html",
 				"tags": ["Photo"]
