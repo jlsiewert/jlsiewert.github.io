@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2021/06/16/digitalisation-in-germany.html",
+				
+				"content_html": "<p>Digitalisation in Germany: I couldn&rsquo;t move my portfolio between two accounts with the same bank because the signature I made with my mouse on their website didn&rsquo;t match the one I made on paper years ago close enough.</p>\n",
+				"content_text": "Digitalisation in Germany: I couldn't move my portfolio between two accounts with the same bank because the signature I made with my mouse on their website didn't match the one I made on paper years ago close enough.\n",
+				"date_published": "2021-06-16T16:00:09+02:00",
+				"url": "https://jl-siewert.de/2021/06/16/digitalisation-in-germany.html"
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/11/you-can-check.html",
+				
+				"content_html": "<p>You can check why a SwiftUI view has been updated by calling <code>Self._printChanges()</code> in the <code>body</code> 🤯</p>\n",
+				"content_text": "You can check why a SwiftUI view has been updated by calling `Self._printChanges()` in the `body` 🤯\n\n",
+				"date_published": "2021-06-11T21:08:24+02:00",
+				"url": "https://jl-siewert.de/2021/06/11/you-can-check.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/11/late-night-coding.html",
+				
+				"content_html": "<p>✅ Late Night Coding Session</p>\n\n<p>That was fun, tackled a lot. I don&rsquo;t do this enough (thankfully?).</p>\n",
+				"content_text": "✅ Late Night Coding Session\n\nThat was fun, tackled a lot. I don't do this enough (thankfully?).\n",
+				"date_published": "2021-06-11T00:28:01+02:00",
+				"url": "https://jl-siewert.de/2021/06/11/late-night-coding.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/10/got-an-arkit.html",
+				
+				"content_html": "<p>Got an ARKit lab appointment (with an Europe timezone friendly time as well!) and got some valuable feedback.</p>\n\n<p>The slack channels and QA have some really valuable insights and tips, too. Great online conference so far.</p>\n",
+				"content_text": "Got an ARKit lab appointment (with an Europe timezone friendly time as well!) and got some valuable feedback.\n\nThe slack channels and QA have some really valuable insights and tips, too. Great online conference so far.\n",
+				"date_published": "2021-06-10T22:23:03+02:00",
+				"url": "https://jl-siewert.de/2021/06/10/got-an-arkit.html",
+				"tags": ["Twitter"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2021/06/08/who-would-have.html",
+				
+				"content_html": "<p>Who would have guessed I get excited for <em>buttons</em>?</p>\n",
+				"content_text": "Who would have guessed I get excited for _buttons_?\n",
+				"date_published": "2021-06-08T22:00:53+02:00",
+				"url": "https://jl-siewert.de/2021/06/08/who-would-have.html",
+				"tags": ["Twitter"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2021/06/07/i-am-looking.html",
 				
 				"content_html": "<p>I am looking forward to my mom calling and asking why I haven&rsquo;t slept last night.</p>\n",
