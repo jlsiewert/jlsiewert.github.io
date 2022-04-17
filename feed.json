@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/04/02/visited-the-ebike.html",
+				
+				"content_html": "<p>Visited the E-Bike festival in Dortmund yesterday. Unfortunately, the weather was more like a April fool&rsquo;s joke instead of inviting test drives.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/d975a66dfd.jpg\" alt=\"E-Bike Festival in Dortmund during snowfall\"></p>\n",
+				"content_text": "Visited the E-Bike festival in Dortmund yesterday. Unfortunately, the weather was more like a April fool's joke instead of inviting test drives. \n\n![E-Bike Festival in Dortmund during snowfall](https://jl.siewert.blog/uploads/2022/d975a66dfd.jpg)\n",
+				"date_published": "2022-04-02T16:32:08+02:00",
+				"url": "https://jl.siewert.blog/2022/04/02/visited-the-ebike.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/04/01/der-streit-ber.html",
+				
+				"content_html": "<p><a href=\"https://uebermedien.de/70075/der-streit-ueber-presseverlage-zeigt-deutlich-was-bei-der-eu-gesetzgebung-falsch-laeuft/\">Der Streit über Presseverlage zeigt deutlich, was bei der EU-Gesetzgebung falsch läuft - Übermedien</a></p>\n",
+				"content_text": "[Der Streit über Presseverlage zeigt deutlich, was bei der EU-Gesetzgebung falsch läuft - Übermedien](https://uebermedien.de/70075/der-streit-ueber-presseverlage-zeigt-deutlich-was-bei-der-eu-gesetzgebung-falsch-laeuft/)\n\n",
+				"date_published": "2022-04-01T07:24:43+02:00",
+				"url": "https://jl.siewert.blog/2022/04/01/der-streit-ber.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/03/31/i-always-liked.html",
+				
+				"content_html": "<p>I always liked Drafts but I never was quite sure with what to do with it.</p>\n<p>With an URL action in Fiery Feeds and some customized Drafts actions for Micro.Blog I now have built a Read it Later system I am quite happy with.</p>\n",
+				"content_text": "I always liked Drafts but I never was quite sure with what to do with it. \n\nWith an URL action in Fiery Feeds and some customized Drafts actions for Micro.Blog I now have built a Read it Later system I am quite happy with. \n",
+				"date_published": "2022-03-31T22:08:25+02:00",
+				"url": "https://jl.siewert.blog/2022/03/31/i-always-liked.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/03/31/yeardle-daily-guess.html",
 				
 				"content_html": "<p><a href=\"https://histordle.com/yeardle/\">Yeardle - Daily &ldquo;Guess the Year&rdquo; History Game</a> is the second fun Wordle Spinoff since <a href=\"https://worldle.teuteuf.fr\">Worldle</a> where you guess countries.</p>\n<p>Good think I am catching up on the <a href=\"https://www.revolutionspodcast.com/2016/06/501-the-conquest.html\">South American Independence on the Revolutions podcast</a> for today&rsquo;s guess.</p>\n",
@@ -64,7 +91,7 @@
 				"id": "http://jlsiewert.micro.blog/2022/03/27/the-edited-latecomers.html",
 				"title": "[The Edited Latecomer’s Guide to Crypto](https://blog.mollywhite.net/the-edited-latecomers-guide-to-crypto/)",
 				"content_html": "<blockquote>\n<p>On March 20, 2022, the New York Times published a 14,000-word puff piece on cryptocurrencies, both online and as an entire section of the Sunday print edition.\n[…]</p>\n<p>A group of around fifteen cryptocurrency researchers and critics have done what the New York Times apparently won’t: The Edited Latecomer’s Guide to Crypto.</p>\n</blockquote>\n<p>I enjoyed <a href=\"https://blog.mollywhite.net\">Molly White&rsquo;s</a> coverage of the crypto bubble (including the great <a href=\"https://web3isgoinggreat.com/\">Web3 is going just great</a> coverage) ever since <a href=\"https://daringfireball.net/linked/2022/01/14/molly-white-blockchain-systems\">Gruber mentioned her earlier this year</a>.</p>\n<p>Until yesterday I haven&rsquo;t seen anything involving crypto outside of news coverage here in Germany. But a local jewelry chain now advertises personal messages that are stored &ldquo;forever on the blockchain&rdquo;, whatever that&rsquo;s supposed to mean. You can even get a framed certificate!</p>",
-				"content_text": "> On March 20, 2022, the New York Times published a 14,000-word puff piece on cryptocurrencies, both online and as an entire section of the Sunday print edition. \n> […]\n> \n> A group of around fifteen cryptocurrency researchers and critics have done what the New York Times apparently won’t: The Edited Latecomer’s Guide to Crypto.\n\nI enjoyed [Molly White's](https://blog.mollywhite.net) coverage of the crypto bubble (including the great [Web3 is going just great](https://web3isgoinggreat.com/) coverage) ever since [Gruber mentioned her earlier this year](https://daringfireball.net/linked/2022/01/14/molly-white-blockchain-systems). \n\n<!--more-->\n\nUntil yesterday I haven't seen anything involving crypto outside of news coverage here in Germany. But a local jewelry chain now advertises personal messages that are stored \"forever on the blockchain\", whatever that's supposed to mean. You can even get a framed certificate!\n",
+				"content_text": "> On March 20, 2022, the New York Times published a 14,000-word puff piece on cryptocurrencies, both online and as an entire section of the Sunday print edition. \n> […]\n> \n> A group of around fifteen cryptocurrency researchers and critics have done what the New York Times apparently won’t: The Edited Latecomer’s Guide to Crypto.\n\nI enjoyed [Molly White's](https://blog.mollywhite.net) coverage of the crypto bubble (including the great [Web3 is going just great](https://web3isgoinggreat.com/) coverage) ever since [Gruber mentioned her earlier this year](https://daringfireball.net/linked/2022/01/14/molly-white-blockchain-systems). \n<!--more-->\nUntil yesterday I haven't seen anything involving crypto outside of news coverage here in Germany. But a local jewelry chain now advertises personal messages that are stored \"forever on the blockchain\", whatever that's supposed to mean. You can even get a framed certificate!\n\n",
 				"date_published": "2022-03-27T01:28:00+02:00",
 				"url": "https://jl.siewert.blog/2022/03/27/the-edited-latecomers.html",
 				"tags": ["Microblog","Link"]
