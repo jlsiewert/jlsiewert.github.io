@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/04/26/so-what-are.html",
+				"title": "[so what are the odds this causes the Fediverse to collapse](https://twitter.com/atomicthumbs/status/1518667187153629185)",
+				"content_html": "<blockquote>\n<p>mastodon is a joke, i&rsquo;m afraid. it&rsquo;s not fit for purpose.</p>\n</blockquote>\n<p>– walking mirage (@atomicthumbs) <a href=\"https://twitter.com/atomicthumbs/status/1518667556688592896\">April 25, 2022</a></p>\n<p>Is Mastodon (and decentralization) a valid alternative to a single silo like Twitter?</p>\n<p>A nice take I don&rsquo;t necessarily agree with, but I felt worth to share.</p>\n",
+				"content_text": "\n> mastodon is a joke, i'm afraid. it's not fit for purpose.\n\n– walking mirage (@atomicthumbs) [April 25, 2022](https://twitter.com/atomicthumbs/status/1518667556688592896)\n\nIs Mastodon (and decentralization) a valid alternative to a single silo like Twitter?\n\nA nice take I don't necessarily agree with, but I felt worth to share. \n",
+				"date_published": "2022-04-26T17:38:27+02:00",
+				"url": "https://jl.siewert.blog/2022/04/26/so-what-are.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/04/22/182014.html",
+				
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2022/97464b1fd3.jpg\" alt=\"Entry of Zoo Wuppertal\" title=\"Grüner Zoo Wuppertal\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/65c7c2583c.jpg\" alt=\"A male Lion eating\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/6d63e4d8af.jpg\" alt=\"A blue and yellow bird\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/9c73ca729a.jpg\" alt=\"Two Emperor Penguins\"></p>\n",
+				"content_text": "![Entry of Zoo Wuppertal](https://jl.siewert.blog/uploads/2022/97464b1fd3.jpg \"Grüner Zoo Wuppertal\")\n\n![A male Lion eating](https://jl.siewert.blog/uploads/2022/65c7c2583c.jpg)\n\n![A blue and yellow bird](https://jl.siewert.blog/uploads/2022/6d63e4d8af.jpg)\n\n![Two Emperor Penguins](https://jl.siewert.blog/uploads/2022/9c73ca729a.jpg)\n\n",
+				"date_published": "2022-04-22T18:20:14+02:00",
+				"url": "https://jl.siewert.blog/2022/04/22/182014.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/04/02/visited-the-ebike.html",
 				
 				"content_html": "<p>Visited the E-Bike festival in Dortmund yesterday. Unfortunately, the weather was more like a April fool&rsquo;s joke instead of inviting test drives.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/d975a66dfd.jpg\" alt=\"E-Bike Festival in Dortmund during snowfall\"></p>\n",
