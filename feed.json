@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/05/04/i-was-quite.html",
+				
+				"content_html": "<p>I was quite impressed when I&rsquo;ve seen that the 1Password 8 download was under 3MB. And quite shocked when I noticed that it now totals at close to 450 MB on disk</p>\n",
+				"content_text": "I was quite impressed when I've seen that the 1Password 8 download was under 3MB. And quite shocked when I noticed that it now totals at close to 450 MB on disk\n",
+				"date_published": "2022-05-04T10:36:37+02:00",
+				"url": "https://jl.siewert.blog/2022/05/04/i-was-quite.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/05/03/the-best-way.html",
+				
+				"content_html": "<p>The best way to start the day.  🚲 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-05-03T09:18:51+02:00",
+				"url": "https://jl.siewert.blog/2022/05/03/the-best-way.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/05/02/i-always-seem.html",
+				
+				"content_html": "<p>I always seem to miss the first days of a new Micro.Blog challenge.</p>\n",
+				"content_text": "I always seem to miss the first days of a new Micro.Blog challenge.\n",
+				"date_published": "2022-05-02T20:56:53+02:00",
+				"url": "https://jl.siewert.blog/2022/05/02/i-always-seem.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/05/02/i-did-it.html",
+				
+				"content_html": "<p>I did it, I finished reading <a href=\"https://micro.blog/books/9780765325952\">A Memory of Light (Wheel of Time, Book 14) (Wheel of Time, 14)</a> by Robert Jordan 📚</p>\n<p>The finale leaves me with many questions, the most important being: What now?</p>\n",
+				"content_text": "I did it, I finished reading [A Memory of Light (Wheel of Time, Book 14) (Wheel of Time, 14)](https://micro.blog/books/9780765325952) by Robert Jordan 📚\n\nThe finale leaves me with many questions, the most important being: What now?\n",
+				"date_published": "2022-05-02T20:20:34+02:00",
+				"url": "https://jl.siewert.blog/2022/05/02/i-did-it.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/04/27/morning-commute.html",
+				
+				"content_html": "<p>Morning commute.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/b6ba4a3cdf.jpg\" alt=\"Front part of an e-bike in the foreground with a river in the background. The sun is reflected in the water. \"></p>\n",
+				"content_text": "Morning commute. \n\n![Front part of an e-bike in the foreground with a river in the background. The sun is reflected in the water. ](https://jl.siewert.blog/uploads/2022/b6ba4a3cdf.jpg)\n",
+				"date_published": "2022-04-27T08:37:08+02:00",
+				"url": "https://jl.siewert.blog/2022/04/27/morning-commute.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/04/26/wie-wahrscheinlich-ist.html",
+				
+				"content_html": "<p>Wie wahrscheinlich ist es, dass Musk die EU von Twitter abklemmt, wenn er vom #DSA hört?</p>\n<p><a href=\"https://netzpolitik.org/2022/digitale-dienste-gesetz-der-eu-droht-die-kraftprobe-mit-elon-musks-twitter/\">Digitale-Dienste-Gesetz: Der EU droht die Kraftprobe mit Elon Musks Twitter</a></p>\n",
+				"content_text": "Wie wahrscheinlich ist es, dass Musk die EU von Twitter abklemmt, wenn er vom #DSA hört?\n\n[Digitale-Dienste-Gesetz: Der EU droht die Kraftprobe mit Elon Musks Twitter](https://netzpolitik.org/2022/digitale-dienste-gesetz-der-eu-droht-die-kraftprobe-mit-elon-musks-twitter/)\n",
+				"date_published": "2022-04-26T17:44:53+02:00",
+				"url": "https://jl.siewert.blog/2022/04/26/wie-wahrscheinlich-ist.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/04/26/so-what-are.html",
 				"title": "[so what are the odds this causes the Fediverse to collapse](https://twitter.com/atomicthumbs/status/1518667187153629185)",
 				"content_html": "<blockquote>\n<p>mastodon is a joke, i&rsquo;m afraid. it&rsquo;s not fit for purpose.</p>\n</blockquote>\n<p>– walking mirage (@atomicthumbs) <a href=\"https://twitter.com/atomicthumbs/status/1518667556688592896\">April 25, 2022</a></p>\n<p>Is Mastodon (and decentralization) a valid alternative to a single silo like Twitter?</p>\n<p>A nice take I don&rsquo;t necessarily agree with, but I felt worth to share.</p>\n",
