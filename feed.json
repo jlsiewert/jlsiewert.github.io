@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/05/27/zoo-duisburg.html",
+				"title": "Zoo Duisburg",
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg\" alt=\"Tortoises on a Lake - Schildkröten auf vor einem See\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg\" alt=\"A kangaroo eating something in the grass - Ein Känguru im Gras\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg\" alt=\"Meerkats playing - Spielende Erdmännchen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg\" alt=\"Eurasian Lynx - Eurasischer Luchs\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg\" alt=\"A guenon with its baby - Meerkatze mit Kund\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg\" alt=\"Orang-Utan\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg\" alt=\"Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg\" alt=\"Koala behind trees - Koala zwischen Bäumen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg\" alt=\"Young tiger in the grass - Ein junger Tiger im Grass\"></p>\n",
+				"content_text": "\n![Tortoises on a Lake - Schildkröten auf vor einem See](https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg)\n\n![A kangaroo eating something in the grass - Ein Känguru im Gras](https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg)\n\n![Meerkats playing - Spielende Erdmännchen](https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg)\n\n![Eurasian Lynx - Eurasischer Luchs](https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg)\n\n![A guenon with its baby - Meerkatze mit Kund](https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg)\n\n![Orang-Utan](https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg)\n\n![Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm](https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg)\n\n![Koala behind trees - Koala zwischen Bäumen](https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg)\n\n![Young tiger in the grass - Ein junger Tiger im Grass](https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg)\n",
+				"date_published": "2022-05-27T13:34:58+02:00",
+				"url": "https://jl.siewert.blog/2022/05/27/zoo-duisburg.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/05/04/i-was-quite.html",
 				
 				"content_html": "<p>I was quite impressed when I&rsquo;ve seen that the 1Password 8 download was under 3MB. And quite shocked when I noticed that it now totals at close to 450 MB on disk</p>\n",
