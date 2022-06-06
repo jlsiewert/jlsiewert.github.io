@@ -7,12 +7,39 @@
 	"items": [
 		
 			{
-				"id": "http://jlsiewert.micro.blog/2022/05/27/zoo-duisburg.html",
+				"id": "http://jlsiewert.micro.blog/2022/06/06/wwdc-keynote-time.html",
+				
+				"content_html": "<p>WWDC Keynote time. Lets see whats new for AR.</p>\n",
+				"content_text": "WWDC Keynote time. Lets see whats new for AR.\n",
+				"date_published": "2022-06-06T18:59:33+02:00",
+				"url": "https://jl.siewert.blog/2022/06/06/wwdc-keynote-time.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/06/01/wordpress-is-great.html",
+				
+				"content_html": "<p><em>Wordpress is great</em>, they said, <em>just take this template that includes 8 JavaScript files and 30'000 lines of css and everything will just work</em>, they said.</p>\n",
+				"content_text": "_Wordpress is great_, they said, _just take this template that includes 8 JavaScript files and 30'000 lines of css and everything will just work_, they said. \n",
+				"date_published": "2022-06-01T20:56:37+02:00",
+				"url": "https://jl.siewert.blog/2022/06/01/wordpress-is-great.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/06/01/apple-music-has.html",
+				"title": "[Apple Music has betrayed its most loyal listeners | Macworld](https://www.macworld.com/article/707588/apple-music-ads-stations-interviews-playlists.html)",
+				"content_html": "<blockquote>\n<p>The ad-free, all-music service now has ads in radio stations and interviews in playlists.</p>\n</blockquote>\n<p>Add Apple TV trailers to the list.</p>\n",
+				"content_text": "\n> The ad-free, all-music service now has ads in radio stations and interviews in playlists.\n\nAdd Apple TV trailers to the list. \n",
+				"date_published": "2022-06-01T20:47:11+02:00",
+				"url": "https://jl.siewert.blog/2022/06/01/apple-music-has.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/05/27/133400.html",
 				"title": "Zoo Duisburg",
-				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg\" alt=\"Tortoises on a Lake - Schildkröten auf vor einem See\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg\" alt=\"A kangaroo eating something in the grass - Ein Känguru im Gras\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg\" alt=\"Meerkats playing - Spielende Erdmännchen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg\" alt=\"Eurasian Lynx - Eurasischer Luchs\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg\" alt=\"A guenon with its baby - Meerkatze mit Kund\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg\" alt=\"Orang-Utan\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg\" alt=\"Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg\" alt=\"Koala behind trees - Koala zwischen Bäumen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg\" alt=\"Young tiger in the grass - Ein junger Tiger im Grass\"></p>\n",
-				"content_text": "\n![Tortoises on a Lake - Schildkröten auf vor einem See](https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg)\n\n![A kangaroo eating something in the grass - Ein Känguru im Gras](https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg)\n\n![Meerkats playing - Spielende Erdmännchen](https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg)\n\n![Eurasian Lynx - Eurasischer Luchs](https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg)\n\n![A guenon with its baby - Meerkatze mit Kund](https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg)\n\n![Orang-Utan](https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg)\n\n![Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm](https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg)\n\n![Koala behind trees - Koala zwischen Bäumen](https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg)\n\n![Young tiger in the grass - Ein junger Tiger im Grass](https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg)\n",
-				"date_published": "2022-05-27T13:34:58+02:00",
-				"url": "https://jl.siewert.blog/2022/05/27/zoo-duisburg.html",
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg\" alt=\"Tortoises on a Lake - Schildkröten auf vor einem See\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg\" alt=\"A kangaroo eating something in the grass - Ein Känguru im Gras\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg\" alt=\"Meerkats playing - Spielende Erdmännchen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg\" alt=\"Eurasian Lynx - Eurasischer Luchs\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg\" alt=\"A guenon with its baby - Meerkatze mit Kund\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/bb76f5de43.jpg\" alt=\"A red-and-blue bird - Ein bunter Vogel\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg\" alt=\"Orang-Utan\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/bb78abb7fa.jpg\" alt=\"A group of penguins - Eine Gruppe Pinguine\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/65eb4726d3.jpg\" alt=\"Another bird - Ein anderer Vogel\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/c136657f35.jpg\" alt=\"An iguana - Ein Leguan\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg\" alt=\"Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg\" alt=\"Koala behind trees - Koala zwischen Bäumen\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg\" alt=\"Young tiger in the grass - Ein junger Tiger im Grass\"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2022/685007e933.jpg\" alt=\"An elephant - Ein Elefant\"></p>\n",
+				"content_text": "\n![Tortoises on a Lake - Schildkröten auf vor einem See](https://jl.siewert.blog/uploads/2022/b3ef5ec385.jpg)\n\n![A kangaroo eating something in the grass - Ein Känguru im Gras](https://jl.siewert.blog/uploads/2022/cc211cc1da.jpg)\n\n![Meerkats playing - Spielende Erdmännchen](https://jl.siewert.blog/uploads/2022/abee4ddf6b.jpg)\n\n![Eurasian Lynx - Eurasischer Luchs](https://jl.siewert.blog/uploads/2022/f7ca277a8b.jpg)\n\n![A guenon with its baby - Meerkatze mit Kund](https://jl.siewert.blog/uploads/2022/9ec9b1c79f.jpg)\n\n![A red-and-blue bird - Ein bunter Vogel](https://jl.siewert.blog/uploads/2022/bb76f5de43.jpg)\n\n![Orang-Utan](https://jl.siewert.blog/uploads/2022/ef6d266dc7.jpg)\n\n![A group of penguins - Eine Gruppe Pinguine](https://jl.siewert.blog/uploads/2022/bb78abb7fa.jpg)\n\n![Another bird - Ein anderer Vogel](https://jl.siewert.blog/uploads/2022/65eb4726d3.jpg)\n\n![An iguana - Ein Leguan](https://jl.siewert.blog/uploads/2022/c136657f35.jpg)\n\n![Red panda climbing across a tree - Ein roter Panda klettert auf einem Baumstamm](https://jl.siewert.blog/uploads/2022/86d4d126ee.jpg)\n\n![Koala behind trees - Koala zwischen Bäumen](https://jl.siewert.blog/uploads/2022/05ffe83bc6.jpg)\n\n![Young tiger in the grass - Ein junger Tiger im Grass](https://jl.siewert.blog/uploads/2022/2b3a6072fc.jpg)\n\n![An elephant - Ein Elefant](https://jl.siewert.blog/uploads/2022/685007e933.jpg)\n",
+				"date_published": "2022-05-27T13:34:00+02:00",
+				"url": "https://jl.siewert.blog/2022/05/27/133400.html",
 				"tags": ["Photo","Microblog"]
 			},
 			{
@@ -28,7 +55,7 @@
 				"id": "http://jlsiewert.micro.blog/2022/05/03/the-best-way.html",
 				
 				"content_html": "<p>The best way to start the day.  🚲 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"https://jl.siewert.blog/uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-03T09:18:51+02:00",
 				"url": "https://jl.siewert.blog/2022/05/03/the-best-way.html",
 				"tags": ["Photo","Microblog"]
