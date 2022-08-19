@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/08/19/not-a-good.html",
+				
+				"content_html": "<p>Not a good sign when <a href=\"https://www.tagesschau.de/wirtschaft/apple-sicherheitsluecke-105.html\">mainstream media</a> warns you to update iOS devices.</p>\n",
+				"content_text": "Not a good sign when [mainstream media](https://www.tagesschau.de/wirtschaft/apple-sicherheitsluecke-105.html) warns you to update iOS devices. \n",
+				"date_published": "2022-08-19T09:22:37+02:00",
+				"url": "https://jl.siewert.blog/2022/08/19/not-a-good.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2022/06/06/shared-icloud-photo.html",
+				
+				"content_html": "<p>Shared iCloud Photo Library probably fees enough iCloud space so that I can downgrade my plan.</p>\n",
+				"content_text": "Shared iCloud Photo Library probably fees enough iCloud space so that I can downgrade my plan.\n",
+				"date_published": "2022-06-06T19:35:41+02:00",
+				"url": "https://jl.siewert.blog/2022/06/06/shared-icloud-photo.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/06/06/wwdc-keynote-time.html",
 				
 				"content_html": "<p>WWDC Keynote time. Lets see whats new for AR.</p>\n",
@@ -55,7 +73,7 @@
 				"id": "http://jlsiewert.micro.blog/2022/05/03/the-best-way.html",
 				
 				"content_html": "<p>The best way to start the day.  🚲 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"https://jl.siewert.blog/uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-03T09:18:51+02:00",
 				"url": "https://jl.siewert.blog/2022/05/03/the-best-way.html",
 				"tags": ["Photo","Microblog"]
