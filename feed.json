@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/10/29/meta-quest-pro.html",
+				"title": "[Meta Quest Pro review: For those with more money than sense | Ars Technica](https://arstechnica.com/gaming/2022/10/meta-quest-pro-review-for-those-with-more-money-than-sense)",
+				"content_html": "<blockquote>\n<p>At its current asking price, though, we can only recommend the Quest Pro to mid-level executives who have convinced their superiors to allocate a ridiculous, money-is-no-object budget to ill-defined metaverse projects out of nothing more than a deep sense of FOMO.</p>\n</blockquote>\n<p>Somebody is not impressed by what Meta is up to.</p>\n",
+				"content_text": "\n> At its current asking price, though, we can only recommend the Quest Pro to mid-level executives who have convinced their superiors to allocate a ridiculous, money-is-no-object budget to ill-defined metaverse projects out of nothing more than a deep sense of FOMO. \n\nSomebody is not impressed by what Meta is up to. \n",
+				"date_published": "2022-10-29T22:20:13+02:00",
+				"url": "https://jl.siewert.blog/2022/10/29/meta-quest-pro.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/08/19/not-a-good.html",
 				
 				"content_html": "<p>Not a good sign when <a href=\"https://www.tagesschau.de/wirtschaft/apple-sicherheitsluecke-105.html\">mainstream media</a> warns you to update iOS devices.</p>\n",
@@ -73,7 +82,7 @@
 				"id": "http://jlsiewert.micro.blog/2022/05/03/the-best-way.html",
 				
 				"content_html": "<p>The best way to start the day.  🚲 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The best way to start the day.  🚲 📷 \n\n\n\n<img src=\"https://jl.siewert.blog/uploads/2022/afd6b8813f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-03T09:18:51+02:00",
 				"url": "https://jl.siewert.blog/2022/05/03/the-best-way.html",
 				"tags": ["Photo","Microblog"]
