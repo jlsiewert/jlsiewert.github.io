@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2022/12/23/how-putins-war.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2022/12/16/world/europe/russia-putin-war-failures-ukraine.html#blunders\">How Putin’s War in Ukraine Became a Catastrophe for Russia - The New York Times</a></p>\n",
+				"content_text": "[How Putin’s War in Ukraine Became a Catastrophe for Russia - The New York Times](https://www.nytimes.com/interactive/2022/12/16/world/europe/russia-putin-war-failures-ukraine.html#blunders)\n",
+				"date_published": "2022-12-23T20:56:46+01:00",
+				"url": "https://jl.siewert.blog/2022/12/23/how-putins-war.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2022/10/29/meta-quest-pro.html",
 				"title": "[Meta Quest Pro review: For those with more money than sense | Ars Technica](https://arstechnica.com/gaming/2022/10/meta-quest-pro-review-for-those-with-more-money-than-sense)",
 				"content_html": "<blockquote>\n<p>At its current asking price, though, we can only recommend the Quest Pro to mid-level executives who have convinced their superiors to allocate a ridiculous, money-is-no-object budget to ill-defined metaverse projects out of nothing more than a deep sense of FOMO.</p>\n</blockquote>\n<p>Somebody is not impressed by what Meta is up to.</p>\n",
