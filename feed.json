@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2023/08/01/rain.html",
+				
+				"content_html": "<p>Rain.</p>\n<img src=\"uploads/2023/dsc00071.jpg\" width=\"600\" height=\"400\" alt=\"Black and white picture. A single rain drop below a thin leaf. The sun is bright in the background.\">\n",
+				"content_text": "Rain.\n\n<img src=\"uploads/2023/dsc00071.jpg\" width=\"600\" height=\"400\" alt=\"Black and white picture. A single rain drop below a thin leaf. The sun is bright in the background.\">\n",
+				"date_published": "2023-08-01T19:42:42+02:00",
+				"url": "https://jl.siewert.blog/2023/08/01/rain.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/07/31/there-is-never.html",
+				
+				"content_html": "<p>There is never a bad time to <a href=\"https://showyourstripes.info/s/europe/germany/nordrheinwestfalen\">show your stripes</a>.</p>\n<p><em>Created by Ed Hawkins, Licensed by University of Reading, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>.</em></p>\n<img src=\"uploads/2023/europe-germany-nordrhein-westfalen-1881-2022-dw.png\" width=\"600\" height=\"337\" alt=\"A series of blue and red stripes, getting more and more red towards the right.\">\n",
+				"content_text": "There is never a bad time to [show your stripes](https://showyourstripes.info/s/europe/germany/nordrheinwestfalen).\r\n\r\n_Created by Ed Hawkins, Licensed by University of Reading, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._\r\n\n\n<img src=\"uploads/2023/europe-germany-nordrhein-westfalen-1881-2022-dw.png\" width=\"600\" height=\"337\" alt=\"A series of blue and red stripes, getting more and more red towards the right.\">\n",
+				"date_published": "2023-07-31T18:43:42+02:00",
+				"url": "https://jl.siewert.blog/2023/07/31/there-is-never.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/07/30/worldcoin-a-solution.html",
+				"title": "[Worldcoin: a solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)",
+				"content_html": "<p>Molly White is at it again, this time covering world coin. For me, even under the premise that there is a need for a non-government controlled database of human identities, the whole concept Worldcoin seems to be even more half-baked then I initially assumed.</p>\n",
+				"content_text": "\nMolly White is at it again, this time covering world coin. For me, even under the premise that there is a need for a non-government controlled database of human identities, the whole concept Worldcoin seems to be even more half-baked then I initially assumed. \n",
+				"date_published": "2023-07-30T17:47:09+02:00",
+				"url": "https://jl.siewert.blog/2023/07/30/worldcoin-a-solution.html",
+				"tags": ["Microblog","Link"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/07/28/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570384\">The Frugal Wizard’s Handbook for Surviving Medieval England</a> by Brandon Sanderson 📚</p>\n<p>Secret Project 2 was as great as the first. My library expects another 5 weeks until SP3, so let&rsquo;s see what I pick up in the mean time.</p>\n",
+				"content_text": "Finished reading: [The Frugal Wizard’s Handbook for Surviving Medieval England](https://micro.blog/books/9781938570384) by Brandon Sanderson 📚\n\nSecret Project 2 was as great as the first. My library expects another 5 weeks until SP3, so let's see what I pick up in the mean time. \n",
+				"date_published": "2023-07-28T22:34:50+02:00",
+				"url": "https://jl.siewert.blog/2023/07/28/finished-reading-the.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2023/07/24/i-discovered-peakdesign.html",
 				
 				"content_html": "<p>I discovered PeakDesign. Well, I have their excellent Mobile line for my iPhone for quite a while already. But now I <em>bought a camera</em> and rediscovered all their camera gear. The shopping basket is now dangerously full.</p>\n",
