@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2023/10/15/baloon.html",
+				
+				"content_html": "<p>Baloon.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/dsc01944.jpeg\" alt=\"Silhouette of a balloon in front of an orange sunrise. \"></p>\n",
+				"content_text": "Baloon. \n\n![Silhouette of a balloon in front of an orange sunrise. ](https://jl.siewert.blog/uploads/2023/dsc01944.jpeg)\n",
+				"date_published": "2023-10-15T13:28:46+02:00",
+				"url": "https://jl.siewert.blog/2023/10/15/baloon.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/09/08/212321.html",
+				
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/2023-09-08.jpeg\" alt=\"A cormorant on a tree in the morning sun. \"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/dbda6fc9b9.jpeg\" alt=\"A swan on a still lake between some trees. The water behind it is glowing orange. \"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/303c256b4d.jpeg\" alt=\"Some trees in the morning sun. In the distant a kingfisher can be seen. \"></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/2023-09-06.jpeg\" alt=\"A sign marking a nature protected area. To the left, the morning son is shining through some trees. To the right a slider web. \"></p>\n",
+				"content_text": "\n\n![A cormorant on a tree in the morning sun. ](https://jl.siewert.blog/uploads/2023/2023-09-08.jpeg)\n\n![A swan on a still lake between some trees. The water behind it is glowing orange. ](https://jl.siewert.blog/uploads/2023/dbda6fc9b9.jpeg)\n\n![Some trees in the morning sun. In the distant a kingfisher can be seen. ](https://jl.siewert.blog/uploads/2023/303c256b4d.jpeg)\n\n![A sign marking a nature protected area. To the left, the morning son is shining through some trees. To the right a slider web. ](https://jl.siewert.blog/uploads/2023/2023-09-06.jpeg)\n",
+				"date_published": "2023-09-08T21:23:21+02:00",
+				"url": "https://jl.siewert.blog/2023/09/08/212321.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/09/08/yonder.html",
+				
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/2023-07-15.jpeg\" alt=\"A person standing on top of a stony hill, gazing in the distant over rolling hills and clouds. \"></p>\n<p><a href=\"https://challenges.micro.blog/2023/09/07/the-prompt-for.html\">Yonder</a>.</p>\n",
+				"content_text": "![A person standing on top of a stony hill, gazing in the distant over rolling hills and clouds. ](https://jl.siewert.blog/uploads/2023/2023-07-15.jpeg)\n\n[Yonder](https://challenges.micro.blog/2023/09/07/the-prompt-for.html). \n",
+				"date_published": "2023-09-08T17:01:13+02:00",
+				"url": "https://jl.siewert.blog/2023/09/08/yonder.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2023/09/07/hamburg-panorama.html",
+				
+				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/2020-09-21.jpeg\" alt=\"Panorama of Hamburg Binnenalster. A fountain in the center of a mostly still water and buildings all around it, reflecting in the water.\"></p>\n<p>Hamburg <a href=\"https://challenges.micro.blog/2023/09/06/the-prompt-for.html\">Panorama</a></p>\n",
+				"content_text": "![Panorama of Hamburg Binnenalster. A fountain in the center of a mostly still water and buildings all around it, reflecting in the water.](https://jl.siewert.blog/uploads/2023/2020-09-21.jpeg)\n\nHamburg [Panorama](https://challenges.micro.blog/2023/09/06/the-prompt-for.html)\n",
+				"date_published": "2023-09-07T10:33:24+02:00",
+				"url": "https://jl.siewert.blog/2023/09/07/hamburg-panorama.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2023/09/06/i-could-find.html",
 				
 				"content_html": "<p>I could find neither a well nor a photo I took of one, so here is something for our <a href=\"https://challenges.micro.blog/2023/09/05/the-prompt-for.html\">well</a>-being instead.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/img-1545.jpeg\" alt=\"Two cakes and two cappuccino on a table. \"></p>\n",
@@ -18,8 +54,8 @@
 			{
 				"id": "http://jlsiewert.micro.blog/2023/09/05/forest.html",
 				
-				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/23e5170972.jpg\" alt=\"Wide angle photo of tree tops all around against a blue sky. The sun can be seen behind one. \"></p>\n<p><a href=\"https://challenges.micro.blog/2023/09/04/the-prompt-for.html\">Forest</a>.</p>\n",
-				"content_text": "![Wide angle photo of tree tops all around against a blue sky. The sun can be seen behind one. ](https://jl.siewert.blog/uploads/2023/23e5170972.jpg)\n\n[Forest](https://challenges.micro.blog/2023/09/04/the-prompt-for.html). \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/4251/2023/23e5170972.jpg\" alt=\"Wide angle photo of tree tops all around against a blue sky. The sun can be seen behind one. \"></p>\n<p><a href=\"https://challenges.micro.blog/2023/09/04/the-prompt-for.html\">Forest</a>.</p>\n",
+				"content_text": "![Wide angle photo of tree tops all around against a blue sky. The sun can be seen behind one. ](https://cdn.uploads.micro.blog/4251/2023/23e5170972.jpg)\n\n[Forest](https://challenges.micro.blog/2023/09/04/the-prompt-for.html). \n",
 				"date_published": "2023-09-05T19:27:53+02:00",
 				"url": "https://jl.siewert.blog/2023/09/05/forest.html",
 				"tags": ["Photo","Microblog"]
@@ -27,8 +63,8 @@
 			{
 				"id": "http://jlsiewert.micro.blog/2023/09/04/i-guess-pizzamonday.html",
 				
-				"content_html": "<p>I guess PizzaMonday is a thing now.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2023/e8a2ff2939.jpg\" alt=\"A pizza is baking under orange flames. \"></p>\n<p>Pizza under orange flames.</p>\n",
-				"content_text": "I guess PizzaMonday is a thing now. \n\n![A pizza is baking under orange flames. ](https://jl.siewert.blog/uploads/2023/e8a2ff2939.jpg)\n\nPizza under orange flames. \n",
+				"content_html": "<p>I guess PizzaMonday is a thing now.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/4251/2023/e8a2ff2939.jpg\" alt=\"A pizza is baking under orange flames. \"></p>\n<p>Pizza under orange flames.</p>\n",
+				"content_text": "I guess PizzaMonday is a thing now. \n\n![A pizza is baking under orange flames. ](https://cdn.uploads.micro.blog/4251/2023/e8a2ff2939.jpg)\n\nPizza under orange flames. \n",
 				"date_published": "2023-09-04T20:02:26+02:00",
 				"url": "https://jl.siewert.blog/2023/09/04/i-guess-pizzamonday.html",
 				"tags": ["Photo","Microblog"]
@@ -36,8 +72,8 @@
 			{
 				"id": "http://jlsiewert.micro.blog/2023/09/03/todays-prompt-made.html",
 				
-				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/5e2e5f6e85.jpg\" alt=\"Van Gaughs Sunflower painting on a blue wall. A person is standing before it. \"></p>\n<p>Todays prompt made me think of some <a href=\"https://challenges.micro.blog/2023/09/02/the-prompt-for.html\">precious</a> paintings we have seen in Amsterdam earlier this year.</p>\n",
-				"content_text": "![Van Gaughs Sunflower painting on a blue wall. A person is standing before it. ](https://jl.siewert.blog/uploads/2023/5e2e5f6e85.jpg)\n\nTodays prompt made me think of some [precious](https://challenges.micro.blog/2023/09/02/the-prompt-for.html) paintings we have seen in Amsterdam earlier this year. \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/4251/2023/5e2e5f6e85.jpg\" alt=\"Van Gaughs Sunflower painting on a blue wall. A person is standing before it. \"></p>\n<p>Todays prompt made me think of some <a href=\"https://challenges.micro.blog/2023/09/02/the-prompt-for.html\">precious</a> paintings we have seen in Amsterdam earlier this year.</p>\n",
+				"content_text": "![Van Gaughs Sunflower painting on a blue wall. A person is standing before it. ](https://cdn.uploads.micro.blog/4251/2023/5e2e5f6e85.jpg)\n\nTodays prompt made me think of some [precious](https://challenges.micro.blog/2023/09/02/the-prompt-for.html) paintings we have seen in Amsterdam earlier this year. \n",
 				"date_published": "2023-09-03T08:09:06+02:00",
 				"url": "https://jl.siewert.blog/2023/09/03/todays-prompt-made.html",
 				"tags": ["Photo","Microblog"]
@@ -45,8 +81,8 @@
 			{
 				"id": "http://jlsiewert.micro.blog/2023/09/02/an-image-of.html",
 				
-				"content_html": "<p><img src=\"https://jl.siewert.blog/uploads/2023/5c7f2079d4.jpg\" alt=\"An empty construction site. In the background a new building and a crane. \"></p>\n<p>An image of the <a href=\"https://challenges.micro.blog/2023/09/01/the-prompt-for.html\">buildup</a> of our new research building. Incredible, how far they have come in the last year since taking this picture.</p>\n",
-				"content_text": "![An empty construction site. In the background a new building and a crane. ](https://jl.siewert.blog/uploads/2023/5c7f2079d4.jpg)\n\nAn image of the <a href=\"https://challenges.micro.blog/2023/09/01/the-prompt-for.html\">buildup</a> of our new research building. Incredible, how far they have come in the last year since taking this picture. \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/4251/2023/5c7f2079d4.jpg\" alt=\"An empty construction site. In the background a new building and a crane. \"></p>\n<p>An image of the <a href=\"https://challenges.micro.blog/2023/09/01/the-prompt-for.html\">buildup</a> of our new research building. Incredible, how far they have come in the last year since taking this picture.</p>\n",
+				"content_text": "![An empty construction site. In the background a new building and a crane. ](https://cdn.uploads.micro.blog/4251/2023/5c7f2079d4.jpg)\n\nAn image of the <a href=\"https://challenges.micro.blog/2023/09/01/the-prompt-for.html\">buildup</a> of our new research building. Incredible, how far they have come in the last year since taking this picture. \n",
 				"date_published": "2023-09-02T17:09:06+02:00",
 				"url": "https://jl.siewert.blog/2023/09/02/an-image-of.html",
 				"tags": ["Photo","Microblog"]
