@@ -7,12 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://jlsiewert.micro.blog/2024/07/06/golden-week-of.html",
+				
+				"content_html": "<p>Golden.</p>\n<p><a href=\"https://norberteder.photography/52-wochen-foto-challenge-2024/\">Week 27 of the 52 Week Photo Challenge.</a></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2024/dsc08275.jpeg\" alt=\"A golden door handle in front of a wooden door. \"></p>\n",
+				"content_text": "Golden.  \n\n[Week 27 of the 52 Week Photo Challenge.](https://norberteder.photography/52-wochen-foto-challenge-2024/)\n\n![A golden door handle in front of a wooden door. ](https://jl.siewert.blog/uploads/2024/dsc08275.jpeg)\n",
+				"date_published": "2024-07-06T21:28:35+02:00",
+				"url": "https://jl.siewert.blog/2024/07/06/golden-week-of.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
 				"id": "http://jlsiewert.micro.blog/2024/06/28/bend-week-of.html",
 				
 				"content_html": "<p>Bend.  <a href=\"https://norberteder.photography/52-wochen-foto-challenge-2024/\">Week 26 of the 52 Week Photo Challenge.</a></p>\n<p><img src=\"https://jl.siewert.blog/uploads/2024/2024-06-27.jpeg\" alt=\"A streetcar rounds a bend, behind it the canopy of a round skyscraper. \"></p>\n",
 				"content_text": "Bend.  [Week 26 of the 52 Week Photo Challenge.](https://norberteder.photography/52-wochen-foto-challenge-2024/)\n\n![A streetcar rounds a bend, behind it the canopy of a round skyscraper. ](https://jl.siewert.blog/uploads/2024/2024-06-27.jpeg)\n\n",
 				"date_published": "2024-06-28T21:42:13+02:00",
 				"url": "https://jl.siewert.blog/2024/06/28/bend-week-of.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2024/06/23/simplicity-week-photo.html",
+				
+				"content_html": "<p>Simplicity.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2024/2024-06-23-simplicity.jpg\" alt=\"Eine Flasche steht in einer Nische in einer Mauer.\"></p>\n<p><a href=\"https://norberteder.photography/52-wochen-foto-challenge-2024\">52 Week Photo Challenge, Week 25</a></p>\n",
+				"content_text": "Simplicity.\n\n![Eine Flasche steht in einer Nische in einer Mauer.](https://jl.siewert.blog/uploads/2024/2024-06-23-simplicity.jpg)\n\n[52 Week Photo Challenge, Week 25](https://norberteder.photography/52-wochen-foto-challenge-2024)\n",
+				"date_published": "2024-06-23T16:46:00+02:00",
+				"url": "https://jl.siewert.blog/2024/06/23/simplicity-week-photo.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2024/06/16/longtime-a-red.html",
+				
+				"content_html": "<p>Long-Time.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2024/2024-06-16-langzeit.jpg\" alt=\"A red electric scooter drives along a road. The scooter can only be recognized with motion blur.\"></p>\n<p><a href=\"https://norberteder.photography/52-wochen-foto-challenge-2024/\">52 Week Photo Challenge, Week 24</a></p>\n",
+				"content_text": "Long-Time.\n\n![A red electric scooter drives along a road. The scooter can only be recognized with motion blur.](https://jl.siewert.blog/uploads/2024/2024-06-16-langzeit.jpg)\n\n[52 Week Photo Challenge, Week 24](https://norberteder.photography/52-wochen-foto-challenge-2024/)\n",
+				"date_published": "2024-06-16T19:36:00+02:00",
+				"url": "https://jl.siewert.blog/2024/06/16/longtime-a-red.html",
+				"tags": ["Photo","Microblog"]
+			},
+			{
+				"id": "http://jlsiewert.micro.blog/2024/06/09/vintage-week-photo.html",
+				
+				"content_html": "<p>Vintage.</p>\n<p><img src=\"https://jl.siewert.blog/uploads/2024/2024-06-09-vontage.jpg\" alt=\"A grayscale image of a toy oven at a market.\"></p>\n<p><a href=\"https://norberteder.photography/52-wochen-foto-challenge-2024/\">52 Week Photo Challenge, Week 23</a></p>\n",
+				"content_text": "Vintage.\n\n![A grayscale image of a toy oven at a market.](https://jl.siewert.blog/uploads/2024/2024-06-09-vontage.jpg)\n\n[52 Week Photo Challenge, Week 23](https://norberteder.photography/52-wochen-foto-challenge-2024/)\n",
+				"date_published": "2024-06-09T19:20:17+02:00",
+				"url": "https://jl.siewert.blog/2024/06/09/vintage-week-photo.html",
 				"tags": ["Photo","Microblog"]
 			},
 			{
